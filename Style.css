@@ -1,8 +1,18 @@
 body {
-  background-color: red;
-  color: blue;
+  background-color: white;
+  color: red;
   font-size: 20px;
 }
 h1 {
-  color: green;
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+.background {
+  background-color: black;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
 }
