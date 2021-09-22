@@ -1,18 +1,15 @@
 body {
-  background-color: white;
-  color: red;
-  font-size: 20px;
+  background-color: rgb(80, 100, 200);
 }
-h1 {
-  color: white;
+.First_Blog {
+  background-color: black;
+  color: red;
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 300px;
 }
 
-h2 {
-  color: white;
-}
-.background {
-  background-color: black;
-  text-align: center;
-  margin-left: 100px;
-  margin-right: 100px;
+.b1_picture {
+  width: 300px;
+  height: 200px;
 }
