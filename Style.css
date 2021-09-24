@@ -5,6 +5,9 @@ body {
   background-color: black;
   color: red;
   text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 50px;
   margin: auto;
   max-width: 55vw;
   width: auto;
@@ -12,19 +15,31 @@ body {
   height: auto;
 }
 
-.b1_picture {
-  padding-top: 50px;
-  width: 500px;
-  height: 350px;
+.llama_picture {
+  padding-top: 15px;
+  max-width: 45vw;
+  width: auto;
+  max-height: 70vh;
+  height: auto;
 }
 
-h1 {
+.llama {
   text-align: center;
   background-color: rgb(150, 150, 200);
+  max-width: 40vw;
+  width: auto;
+  max-height: 25vh;
+  height: auto;
+  margin-left: 125px;
+  margin-right: 125px;
+  margin-top: 15px;
   margin: auto;
-  width: 325px;
 }
 .llama_text {
   background-color: rgb(255, 255, 255);
+  margin: 25px auto;
+  /*position: relative;
   margin: auto;
+  max-width: 600px;
+  width: auto;*\
 }
