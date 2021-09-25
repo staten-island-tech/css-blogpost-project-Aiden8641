@@ -1,45 +1,41 @@
 body {
   background-color: rgb(80, 100, 200);
 }
-.First_Blog {
-  background-color: black;
-  color: red;
+.blog_background {
+  background-size: cover;
   text-align: center;
-  margin-left: 500px;
-  margin-right: 500px;
-  margin-top: 50px;
-  margin: auto;
-  max-width: 55vw;
-  width: auto;
-  max-height: 80vh;
-  height: auto;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 30px;
 }
 
-.llama_picture {
-  padding-top: 15px;
-  max-width: 45vw;
-  width: auto;
-  max-height: 70vh;
+.picture {
+  position: relative;
+  margin-left: 12%;
+  margin-right: 12%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  width: 75%;
   height: auto;
+  top: -5px;
 }
 
-.llama {
+.title {
   text-align: center;
   background-color: rgb(150, 150, 200);
-  max-width: 40vw;
-  width: auto;
-  max-height: 25vh;
-  height: auto;
-  margin-left: 125px;
-  margin-right: 125px;
-  margin-top: 15px;
-  margin: auto;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 30px;
+  position: relative;
+  top: 10px;
 }
-.llama_text {
+
+.text {
   background-color: rgb(255, 255, 255);
-  margin: 25px auto;
-  /*position: relative;
-  margin: auto;
-  max-width: 600px;
-  width: auto;*\
+  position: relative;
+  margin-left: 6%;
+  margin-right: 6%;
+  padding: 1%;
+  border-radius: 15px;
+  top: -10px;
 }
