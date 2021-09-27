@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(80, 100, 200);
+  background-image: url(Forest_Pattern_Repeating.jpg);
+  font-family: "Stick No Bills", sans-serif;
 }
 .blog_background {
   background-size: cover;
